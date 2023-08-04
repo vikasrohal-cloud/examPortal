@@ -1,0 +1,113 @@
+{
+    "exam_name": "Python Assessment",
+    "questions": [
+        {
+            "type": "Multiple Choice",
+            "question": "How to insall package in python?",
+            "choices": [
+                "npm ",
+                "yarn",
+                "pip",
+                "py"
+            ],
+            "correct_choice": "pip"
+        },
+        {
+            "type": "Multiple Choice",
+            "question": "What is the python extension ?",
+            "choices": [
+                ".hs",
+                ".p",
+                ".py",
+                ".pn"
+            ],
+            "correct_choice": ".py"
+        },
+        {
+            "type": "Multiple Choice",
+            "question": "What is output of 3 != 3 in python?",
+            "choices": [
+                "0",
+                "1",
+                "false",
+                "true"
+            ],
+            "correct_choice": "false"
+        },
+        {
+            "type": "Multiple Choice",
+            "question": "What to console the text in python?",
+            "choices": [
+                "console.log()",
+                "println()",
+                "print()",
+                "cout()"
+            ],
+            "correct_choice": "print()"
+        },
+        {
+            "type": "Multiple Choice",
+            "question": "What is print 3+3 = ?",
+            "choices": [
+                "5",
+                "6",
+                "7"
+            ],
+            "correct_choice": "6"
+        },
+        {
+            "type": "Multiple Choice",
+            "question": "What is  4**1?",
+            "choices": [
+                "5",
+                "1",
+                "0",
+                "4"
+            ],
+            "correct_choice": "4"
+        },
+        {
+            "type": "Multiple Choice",
+            "question": "what is output of 1 === 1?",
+            "choices": [
+                "1",
+                "0",
+                "true"
+            ],
+            "correct_choice": "true"
+        },
+        {
+            "type": "Multiple Choice",
+            "question": "How to make function in python?",
+            "choices": [
+                "fn",
+                "function",
+                "def",
+                "defination"
+            ],
+            "correct_choice": "def"
+        },
+        {
+            "type": "Multiple Choice",
+            "question": "if a == a : print(a) else : ",
+            "choices": [
+                "a",
+                "0",
+                "9",
+                "ab"
+            ],
+            "correct_choice": "a"
+        },
+        {
+            "type": "Single Choice",
+            "question": "what is your name ?",
+            "choices": [
+                "Vikash",
+                "Demo",
+                "Memo"
+            ],
+            "correct_choice": "Vikash"
+        }
+    ],
+    "duration": 1
+}
